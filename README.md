@@ -1,4 +1,4 @@
-### Hi there 👋
+### Computing for everyone! 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
