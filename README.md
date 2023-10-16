@@ -5,8 +5,6 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Preet538-neitzen&show_icons=true&theme=dark&locale=en" alt="Preet538-neitzen" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Preet538-neitzen&theme=dark" alt="Preet538-neitzen" /></p>
-<!--
-**Preet538-neitzen/Preet538-neitzen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱 I’m currently learning **Golang**
