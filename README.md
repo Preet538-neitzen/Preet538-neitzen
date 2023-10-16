@@ -4,7 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
 
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently developing multimodal models with Hoppr.ai
 
 - 👯 I’m looking to collaborate on **Distributed Systems projects**
 
