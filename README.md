@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **System Design, Code Optimization, or Generative AI**
 
-- 📫 How to reach me **ps72@illinois.edu**](https://www.linkedin.com/in/preet-sanghavi-981739184/)
+- 📫 Email: **ps72@illinois.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
